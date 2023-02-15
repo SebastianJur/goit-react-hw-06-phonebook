@@ -1,0 +1,18 @@
+.label {
+  display: block;
+  margin-bottom: 15px;
+}
+
+.input {
+  display: block;
+  width: 220px;
+  padding: 5px;
+}
+
+.label {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
